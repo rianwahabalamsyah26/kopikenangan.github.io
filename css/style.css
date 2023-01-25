@@ -1,5 +1,5 @@
 :root {
-  --primary: #b6895b;
+  --primary: #b68a5d;
   --bg: #010101;
 }
 
@@ -36,12 +36,10 @@ body {
   z-index: 9999;
 }
 
-.navbar .navbar-logo {
-  font-size: 2rem;
-  font-weight: 700;
-  color: #fff;
-  font-style: italic;
-}
+/* .navbar .navbar-logo {
+  padding-top: 0;
+  padding-bottom: 0;
+} */
 
 .navbar .navbar-logo span {
   color: var(--primary);
@@ -126,7 +124,7 @@ body {
 }
 
 .hero .content p {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   margin-top: 1rem;
   line-height: 1.4;
   font-weight: 100;
